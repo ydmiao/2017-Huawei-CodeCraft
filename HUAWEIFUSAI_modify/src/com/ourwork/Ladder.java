@@ -78,8 +78,6 @@ public class Ladder {// 和以前对比无误
 					break;
 			}
 		}
-		// if (leftBand > 0)
-		// servers.add(v);// v will undoubtedly be found
 		return minCost;
 	}
 
